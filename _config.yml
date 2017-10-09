@@ -11,7 +11,7 @@ title:            Terrence James Diaz
 tagline:          'Frontend/UX/Fullstack Engineer'
 description:      'Frontend/UX/Fullstack Engineer'
 url:              'terrenceja.me/'
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
