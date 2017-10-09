@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Terrence James Diaz
 tagline:          'Frontend/UX/Fullstack Engineer'
 description:      'Frontend/UX/Fullstack Engineer'
-url:              "terrenceja.me/"
-baseurl:          "/s"
+url:              "terrenceja.me/s/"
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
