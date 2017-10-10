@@ -72,8 +72,9 @@ html {
 
 .profile-pic {
   border-radius: 50%;
-  height: 175px;
-  width: 175px;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
 }
 
 /* Sidebar links */
