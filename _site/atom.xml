@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Terrence James Diaz</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-10-09T19:13:15-07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Obligatory First Post</title>
+   <link href="http://localhost:4000/s/firstpost"/>
+   <updated>2017-10-08T00:00:00-07:00</updated>
+   <id>http://localhost:4000/s/first-post</id>
+   <content type="html">&lt;p&gt;What’s up friends,&lt;/p&gt;
+
+&lt;p&gt;The site should finally now be live! A little bit of info about how the site is run:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, s/o to their free hosting and repository integration&lt;/li&gt;
+  &lt;li&gt;The domain name is hosted from &lt;a href=&quot;http://www.namecheap.com&quot;&gt;Namecheap&lt;/a&gt;. Also s/o to them for my free domain name for one year (you can probably notice a pattern going on here).&lt;/li&gt;
+  &lt;li&gt;The site and its pages are generated using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, which (surprise surprise) is also free. It was the first time I had to set up a Ruby environment, and I got to say everything’s pretty slick. Definitely will need to add more exploration onto my to-do list.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Although everything was relatively easy to set up, I also ran into a lot of troubles, particularly pertaining to that snazzy “/s/” in my URL name (because terrenceja.me would pretty much be lame and make no sense):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Finding and installing a theme outside of the GitHub Pages supported ones was difficult; a lot of compatibility issues definitely needed to be resolved especially since some of these themes are built using Jekyll 2.0 instead of Jekyll 3.0.&lt;/li&gt;
+  &lt;li&gt;I probably spent a couple days trying to make that “/s” redirect correctly, playing with everything from the config.yml file to the directory locations of my files. A common issue would be that the CSS wouldn’t be referenced correctly, and I ended up making a really hacky but terrible practice solution by hardcoding “/s” onto the HTML file references. This was before I realized/forgot I could check the Chrome Developer Console to check the error messages (oops). I definitely was way too excited to get this junk live so I settled for the fix, but I probably should fix it properly in the future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anyway, I hope you enjoy my extraordinarly basic site. Thanks and let me know if you have any questions or concerns!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
