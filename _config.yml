@@ -22,7 +22,8 @@ paginate: 5
 paginate_path: "page:num"
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           https://github.com/terrencejames
+behance:          http://www.behance.net/terrencejames
+linkedin:         https://www.linkedin.com/in/terrence-james-diaz
